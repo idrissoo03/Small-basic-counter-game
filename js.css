@@ -1,0 +1,39 @@
+body {
+    font-size: 2em;
+    text-align: center;
+    background-image: url("../images/jap.jpg");
+    background-size: 100%;
+}
+
+#result {
+    color: red;
+
+}
+
+#increase {
+    background-color: cyan;
+    color: black;
+    border-radius: 5px;
+    padding: 20px;
+    border-color: white
+    
+    
+}
+
+
+#decrease {
+    background-color: cyan;
+    color: black;
+    border-radius: 5px;
+    padding: 20px;
+    border-color: white
+
+}
+
+#reset {
+    background-color: cyan;
+    color: black;
+    border-radius: 5px;
+    padding: 20px;
+    border-color: white
+}   
